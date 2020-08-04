@@ -80,7 +80,13 @@ export default defineConfig({
               name: 'account',
               icon: 'table',
               path: '/account',
-              component: './account',
+              component: './Account',
+            },
+            {
+              name: 'chart',
+              icon: 'smile',
+              path: '/chart',
+              component: './Chart',
             },
             {
               component: './404',

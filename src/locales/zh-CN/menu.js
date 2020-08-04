@@ -50,4 +50,5 @@ export default {
   'menu.editor.mind': '脑图编辑器',
   'menu.editor.koni': '拓扑编辑器',
   'menu.account': '交互样例',
+  'menu.chart': '图表',
 };
